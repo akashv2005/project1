@@ -1,0 +1,11 @@
+.hero__section
+{
+background-image: url(./images/heroSectionBackground.png);
+display: flex;
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
