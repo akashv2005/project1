@@ -46,7 +46,7 @@ display: none;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: calc(60vh,60px);
+    height: calc(60vh-40px);
     margin-top: 3rem;
 }
 .hero__section_logo
