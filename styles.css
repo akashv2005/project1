@@ -243,6 +243,7 @@ padding: 0px 28px;
  .subcontainer_get_app
  {
    display: flex;
+   width: 60%;
  }
  .left
  {
@@ -335,7 +336,6 @@ padding: 0px 28px;
  .get_app_images h5
  {
    font-weight: 400;
-   padding: 16px 0;
    color: gray;
  }
  .get_app_images div
