@@ -237,7 +237,7 @@ padding: 0px 28px;
    align-items: center;
    justify-content: center;
    width: 100%;
-   padding: 4rem 6rem;
+   padding: 4rem 0;
    flex-wrap: wrap;
  }
  .subcontainer_get_app
@@ -257,7 +257,6 @@ padding: 0px 28px;
    flex: 3;
    font-size: medium;
    gap: 1rem;
-   padding: 0 1rem;
  }
  .right p{
    font-size: 0.9rem;
