@@ -107,6 +107,14 @@ display: none;
     {
         display: none;
     }
+    .hero__section_container
+    {
+      margin-top: 6rem;
+    }
+    .hero__section_input_container
+    {
+      width: 80%;
+    }
 }
  .my_offers
  {
