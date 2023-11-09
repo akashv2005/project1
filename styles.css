@@ -110,6 +110,7 @@ display: none;
     .hero__section_container
     {
       margin-top: 6rem;
+      width: 75%;
     }
     .hero__section_input_container
     {
