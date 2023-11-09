@@ -116,6 +116,10 @@ display: none;
     {
       width: 80%;
     }
+    .navbar
+    {
+      padding: 16px;
+    }
 }
  .my_offers
  {
