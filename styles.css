@@ -346,3 +346,50 @@ padding: 0px 28px;
  {
    width: 33%;
  }
+ @media only screen and (max-width:1200px)
+ {
+.left
+{
+  flex:1;
+}
+.right
+{
+  flex: 1;
+}
+.container__get_app .subcontainer_get_app
+{
+  width: 80%;
+}
+ }
+@media only screen and (max-width:900px)
+{
+  .container__get_app
+  {
+    padding: 2rem 0 ;
+  }
+  .container__get_app .subcontainer_get_app
+  {
+    width: 90%;
+  }
+  .container__collections_subhead
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+  }
+}
+@media only screen and (max-width:700px)
+{
+  .container__get_app .subcontainer_get_app
+  {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+  .container__get_app
+  {
+    padding: 3rem 0;
+  }
+}
